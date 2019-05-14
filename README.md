@@ -1,2 +1,2 @@
 # promit
-Mechanical Engineer,want to be a machine learning researcher
+Mechanical Engineer.Want to be a machine learning researcher
